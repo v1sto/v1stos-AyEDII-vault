@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "4b204d00644e03b8",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0df80b893512734",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a3a2d9dc8d65f991",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Prácticos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "88f5b4f3547e8ce2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AyEDII.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1a8578e7dedc4bac",
+    "type": "split",
+    "children": [
+      {
+        "id": "d122f40a91d45e3e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e891b0796fbd476c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "67b3b003dde48e92",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "26e174ad9d30f8df",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2c456f5bb5050792",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c93fd0ef4935223",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "66a138599b8e9f62",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "AyEDII.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "45d6efa12a1f8027",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "AyEDII.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "29488d9d35c735bb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cbc939be684788b1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "AyEDII.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian42-brat:BRAT": false
+    }
+  },
+  "active": "88f5b4f3547e8ce2",
+  "lastOpenFiles": [
+    "OPS.md",
+    "hola.md",
+    "Pasted image 20240709220935.png",
+    "Pasted image 20240710221200.png",
+    "Pasted image 20240710223826.png",
+    "Pasted image 20240713212646.png",
+    "Pasted image 20240713212830.png",
+    "Pasted image 20240713212939.png",
+    "Pasted image 20240713212951.png",
+    "Pasted image 20240713213004.png",
+    "Pasted image 20240713213016.png",
+    "Pasted image 20240714001735.png",
+    "Prácticos.md",
+    "Sin nombre 1",
+    "Practico 3.4.md",
+    "Practico 3.3.md",
+    "Practico 3.2.md",
+    "Practico 3.1.md",
+    "AyEDII.md",
+    "Final 2022-02-06.md",
+    "Finales.md",
+    "Final 2022-02-21.md",
+    "Final 2022-07-28.md",
+    "Final 2023-02-07.md",
+    "Practico 2.3.md",
+    "Practico 2.2.md",
+    "Practico 2.1.md",
+    "Practico 1.2.md",
+    "Practico 1.1.md",
+    "Practico 1.3.md",
+    "Videos teóricos.md",
+    "Algoritmo de Prim y Algoritmo de Dijkstra.md",
+    "Constructores y operaciones de TADs.md",
+    "Algoritmos de ordenación.md",
+    "Divide y vencerás + complejidades.md",
+    "2024-07-06.md",
+    "Sin nombre",
+    "Excalidraw",
+    "Untitled.canvas"
+  ]
+}
