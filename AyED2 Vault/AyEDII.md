@@ -1,2 +1,0 @@
-[[Prácticos]]
-[[Finales]]
