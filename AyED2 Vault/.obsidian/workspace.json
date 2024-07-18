@@ -25,7 +25,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AyEDII.md",
+                "file": "Final 2023-02-07.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9fcefd3de11aa69b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Practico 3.1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f0b7ce14846581ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Practico 3.4.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AyEDII.md",
+                "file": "Final 2023-02-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AyEDII.md",
+                "file": "Final 2023-02-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AyEDII.md"
+                "file": "Final 2023-02-07.md"
               }
             }
           }
@@ -163,6 +187,13 @@
   },
   "active": "88f5b4f3547e8ce2",
   "lastOpenFiles": [
+    "Prácticos.md",
+    "Practico 3.4.md",
+    "Practico 3.3.md",
+    "Final 2023-02-07.md",
+    "Practico 3.1.md",
+    "Practico 3.2.md",
+    "AyEDII.md",
     "OPS.md",
     "hola.md",
     "Pasted image 20240709220935.png",
@@ -175,18 +206,11 @@
     "Pasted image 20240713213004.png",
     "Pasted image 20240713213016.png",
     "Pasted image 20240714001735.png",
-    "Prácticos.md",
     "Sin nombre 1",
-    "Practico 3.4.md",
-    "Practico 3.3.md",
-    "Practico 3.2.md",
-    "Practico 3.1.md",
-    "AyEDII.md",
     "Final 2022-02-06.md",
     "Finales.md",
     "Final 2022-02-21.md",
     "Final 2022-07-28.md",
-    "Final 2023-02-07.md",
     "Practico 2.3.md",
     "Practico 2.2.md",
     "Practico 2.1.md",
